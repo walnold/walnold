@@ -30,24 +30,15 @@ I focus on clean architecture, maintainable systems, and turning data into busin
 
 
 ## Tech Stack
-**Languages:** Python, SQL, Java, C#, JavaScript
-**Frameworks:** Spring Boot, ASP.NET Core, Flask, Django, FastAPI, React, Node.js
-**Analytics & BI:** Power BI, Excel (Advanced), Looker Studio, Pandas, NumPy, PySpark
-**Data Engineering:** Airflow, Kafka, Debezium
-**Databases:** PostgreSQL, MySQL, SQL Server, MongoDB, Cassandra
-**DevOps:** Docker, Git, GitHub, Maven, Gradle
-**Other:** Networking, System Configuration
+**Languages:** Python, SQL, Java, C#, JavaScript  
+**Frameworks:** Spring Boot, ASP.NET Core, Flask, Django, FastAPI, React, Node.js  
+**Analytics & BI:** Power BI, Excel (Advanced), Looker Studio, Pandas, NumPy, PySpark  
+**Data Engineering:** Airflow, Kafka, Debezium  
+**Databases:** PostgreSQL, MySQL, SQL Server, MongoDB, Cassandra  
+**DevOps:** Docker, Git, GitHub, Maven, Gradle  
+**Other:** Networking, System Configuration  
 
 
----
-
-
-## GitHub Stats
-![Walter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=walnold&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=walnold&layout=compact&theme=default)
-
-
----
 
 
 ## Professional Experience
